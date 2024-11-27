@@ -1,4 +1,4 @@
-******************************************Healthcare Insurance Regression******************************************************************
+****************************************** Healthcare Insurance Regression ******************************************************************
 
 Performed data preprocessing
 
@@ -10,9 +10,7 @@ evaluated the model
 
 predicted the charges
 
-
-
-******************************************calculated the below metrics for the business******************************************************
+***************************************** Calculated the below metrics for the business ******************************************************
 
 Average Charge per Customer
 
