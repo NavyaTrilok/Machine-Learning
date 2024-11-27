@@ -1,0 +1,35 @@
+****Healthcare Insurance Regression****
+
+Performed data preprocessing
+
+performed feature engineering and derived new features
+
+performed one hot encoding for the features
+
+evaluated the model
+
+predicted the charges
+
+calculated the below metrics for the business
+
+Average Charge per Customer
+
+Total Premium Revenue
+
+Charge Distribution by Smoker Status
+
+Charge Distribution by BMI
+
+Average Charge vs. Number of Children
+
+Risk Segmentation (Customer Profiling)
+
+Created a Hypothesis for Retention/Churn: we can hypothesize that:
+
+Customers with higher charges, higher BMI, or those identified as higher risk might have a higher likelihood of churn.
+
+Customers with a Risk_profile of "low" or "medium," low charges, and low BMI might be considered retained.
+
+Calculated customer churn rate
+
+Calculated customer retention rate
